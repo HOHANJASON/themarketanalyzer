@@ -28,6 +28,14 @@
 ```powershell
 npm start
 ```
+or
+```powershell
+cd "C:文件位置"
+npm start
+```
+```powershell
+npm start --prefix "C:文件位置"
+```
 
 瀏覽 `http://localhost:4173`。不需要 API Key。
 
